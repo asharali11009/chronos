@@ -1,0 +1,7 @@
+{
+  "name": "Chronos - Modern Time Master",
+  "description": "A visually stunning, feature-rich time management application with AI-powered insights, world clocks, stopwatch, and ambient sound generation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
